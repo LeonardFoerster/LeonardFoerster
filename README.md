@@ -1,5 +1,7 @@
 # 💫 About Me:
-💻 I’m currently working on a backtesting engine for stock trading — building tools to test and optimize trading strategies.🤝 I’m looking to collaborate on open-source financial analytics, algorithmic trading bots, or data visualization tools.<br><br>📚 I’m currently learning more about quantitative finance, machine learning, and scalable cloud deployment with Docker and AWS.<br>
+💻 I’m currently working on a backtesting engine for stock trading — building tools to test and optimize trading strategies.<br>
+🤝 I’m looking to collaborate on open-source financial analytics, algorithmic trading bots, or data visualization tools.<br>
+📚 I’m currently learning more about quantitative finance, machine learning, and scalable cloud deployment with Docker and AWS.<br>
 
 
 # 💻 Tech Stack:
