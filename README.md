@@ -5,8 +5,12 @@
 # Tools I work with:
 * Visual Studio (2022 / 2026)
 * Jupyter Notebook
-* Git(Hub)
-* PostgreSQL
 * PyCharm
 * Intellji
+* -------------
+* Git(Hub)
+* PostgreSQL
+* -----------
 * OCI
+* Docker
+* AWS
