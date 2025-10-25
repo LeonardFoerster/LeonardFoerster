@@ -7,5 +7,6 @@
 * Jupyter Notebook
 * Git(Hub)
 * PostgreSQL
-* OCI
 * PyCharm
+* Intellji
+* OCI
