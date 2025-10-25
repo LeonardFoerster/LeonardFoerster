@@ -10,7 +10,7 @@
 * -------------
 * Git(Hub)
 * PostgreSQL
-* -----------
+* --
 * OCI
 * Docker
 * AWS
