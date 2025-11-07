@@ -5,6 +5,7 @@
 * __C++__
 * __Python__
 * __HTML, CSS, JavaScript, TypeScript__
+* __Java__
 
 
 # Tools:
