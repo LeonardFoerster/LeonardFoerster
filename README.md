@@ -12,7 +12,6 @@
 * __Visual Studio (2022 / 2026)__
 * __Jupyter Notebook__
 * __Intellji__
-* __Zed__
 * __VSCode__
 
  # Services:
